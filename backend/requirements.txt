@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-chroma
+chromadb
+pdfplumber
+PyMuPDF
+youtube-transcript-api
+easyocr
+python-multipart
+rank-bm25
